@@ -1,2 +1,2 @@
 # teamB
-Noel. Wai en Jordi
+Noel. Wai, Jamie en Jordi
