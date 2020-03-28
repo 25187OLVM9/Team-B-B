@@ -11,5 +11,6 @@ public class KlasseA
     // System.out.print(kb.x); /* 2 */
     // System.out.print(kb.y); /* 3 */
     // System.out.print(kb.z); /* 4 */
+    System.out.print(kb.mijnInt);
   }
 }
