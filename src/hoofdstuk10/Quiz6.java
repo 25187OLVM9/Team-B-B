@@ -31,7 +31,7 @@ public class Quiz6 {
 		Quiz6 mk = new Quiz6();
 		mk.myMethod();
 		
-		//door de hoofdletter B te vervangen door een kleine letter b wordt er x3 x2 x2 x1 geprint
+		//door de hoofdletter B te vervangen door een kleine letter b wordt er x3 x2 x2 x1 geprint 
 
 	}
 

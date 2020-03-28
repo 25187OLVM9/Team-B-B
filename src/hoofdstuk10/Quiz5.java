@@ -20,7 +20,7 @@ public class Quiz5 {
 		char[] arrCharB = Arrays.copyOf(arrCharA, arrCharA.length);
 		//de index van het element 'k'
 		int i = Arrays.binarySearch(arrCharA, 'k');
-		//controleer of de twee arrays gelijk zijn
+		//controleer of de twee arrays gelijk zijn 
 		boolean b = Arrays.equals(arrCharA, arrCharB);
 		
 		System.out.println(i + " " + b);
