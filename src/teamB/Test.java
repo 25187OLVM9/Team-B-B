@@ -13,6 +13,8 @@ public class Test {
 		System.out.println("testttetstg");
 		System.out.println("new testttt");
 		System.out.println("kkr");
+		System.out.println("kkr2");
+		System.out.println("kkr3");
 	}
 
 }
