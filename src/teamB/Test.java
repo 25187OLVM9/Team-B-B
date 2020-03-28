@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("yifrgayugayuegfusfgyueogf");
 		System.out.println("testttetstg");
 		System.out.println("new testttt");
+		System.out.println("kkr");
 	}
 
 }
