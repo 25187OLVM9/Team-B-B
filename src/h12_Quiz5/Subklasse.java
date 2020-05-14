@@ -11,6 +11,7 @@ public class Subklasse extends Superklasse {
 		
 		Subklasse subK = new Subklasse();
 		System.out.print(subK.mijnMethode(2, 8));
+		//dit is commentaar 
 
 	}
 
