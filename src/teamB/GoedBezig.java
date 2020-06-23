@@ -8,7 +8,8 @@ public class GoedBezig {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println("Jullie zijn goed bezig !");
+		//Hebben jullie contact met Wai ?
 	}
 
 }
